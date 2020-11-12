@@ -1,2 +1,2 @@
 # Comprehensive-Restaurant-Ratings-System
-Gives a comprehensive unbiased rating to restaurants so that they can improve their businesses and focus on important parameters using Yelp dataset
+Built a restaurant rating model to provide an average score based on sentiment analysis of text review feedbacks, normalized score for restaurant facilities, and Yelp customers' default ratings.
